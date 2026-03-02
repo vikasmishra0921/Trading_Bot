@@ -1,0 +1,10 @@
+
+2026-03-02 14:11:54 | INFO     | trading_bot | Timestamp synchronised with Binance server.
+2026-03-02 14:11:54 | INFO     | trading_bot | Binance Futures Testnet client initialised successfully.
+2026-03-02 14:11:54 | INFO     | trading_bot | Placing order: symbol=BTCUSDT side=BUY type=MARKET qty=1
+2026-03-02 14:11:54 | INFO     | trading_bot | Order placed successfully: orderId=12574734678 status=NEW
+
+2026-03-02 14:21:51 | INFO     | trading_bot | Timestamp synchronised with Binance server.
+2026-03-02 14:21:51 | INFO     | trading_bot | Binance Futures Testnet client initialised successfully.
+2026-03-02 14:21:51 | INFO     | trading_bot | Placing order: symbol=BTCUSDT side=BUY type=LIMIT qty=0.01 price=4.2E+4
+2026-03-02 14:21:51 | INFO     | trading_bot | Order placed successfully: orderId=12574841275 status=NEW
